@@ -13,7 +13,7 @@ int main() {
   printf("Enter your marks for subject 1: ");
   scanf("%f",&marks2);
   
-  avg = ( marks1 + marks2 ) / 2
+  avg = ( marks1 + marks2 ) / 2;
      
   printf("The average is %.1f",avg);
    
